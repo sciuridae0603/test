@@ -1,4 +1,6 @@
-# 這個專案由 Python 拔得頭籌
+# 這個專案由 Python 拔得頭籌 
 def main():
     print('幣幣救我 庫')
-main()
+
+if __name__ == '__main__':
+    main()
